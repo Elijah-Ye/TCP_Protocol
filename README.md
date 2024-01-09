@@ -1,6 +1,6 @@
 # TCP_Protocol
 
-By the collaboration of [Elijah Ye](https://elijah-ye.github.io) and [Ananya Kommalapati](https://github.com/MeanPaper) <br>
+By the collaboration of [Elijah Ye](https://elijah-ye.github.io) and [Ananya Kommalapati](https://github.com/ananyakIllinois) <br>
 UIUC CS438 FA23 | September 2023 ~ October 2023
 
 We used `UDP` to implement our own version of `TCP`. We are able to tolerate packet drops, allow other concurrent connections a fair chance, and it is not overly nice to other connections (should not give up the entire bandwidth to other connections).
