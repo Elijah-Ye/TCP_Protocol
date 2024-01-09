@@ -79,15 +79,3 @@ This work is protected under the [GNU General Public License v3.0](https://www.g
     THE UNIVERSITY OF ILLINOIS HAS ANY OBLIGATION TO PROVIDE MAINTENANCE,
     SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-> The software programs described in the documents are confidential and proprietary
-> products of Synopsys Corp. or its licensors. The terms and conditions governing
-> the sale and licensing of Synopsys products are set forth in written agreements
-> between Synopsys Corp. and its customers. No representation or other affirmation
-> of fact contained in this publication shall be deemed to be a warranty or give rise
-> to any liability of Synopsys Corp. whatsoever. Images of software programs in use
-> are assumed to be copyright and may not be reproduced.
-
-> The documents are for informational and instructional purposes only. The ECE 411 teaching
-> staff reserves the right to make changes in specifications and other information contained
-> in this publication without prior notice, and the reader should, in all cases, consult
-> the teaching staff to determine whether any changes have been made.
